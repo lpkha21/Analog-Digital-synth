@@ -24,4 +24,8 @@ A fully custom **modular synthesizer** combining classic analog modules with a d
   - Acts as a **drumpad machine**
   - Includes **looper** for layering rhythms
 
+
+## 📸 Synth Photo
+![Front Panel](Images/image.jpg)
+
 ---
